@@ -38,6 +38,10 @@ a:hover {
     background-size: cover;
     position: relative;
 }
+ .row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
 
 .bloc-lg {
     padding: 100px 50px;
